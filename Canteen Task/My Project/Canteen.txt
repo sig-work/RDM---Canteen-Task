@@ -1,12 +1,14 @@
 Danny
 240
 Sam
-503
+10604
 Ollie
 120
 Liam
 500
 Cody
-77
+110
 Gordon
 230
+Gabby
+1000000
